@@ -1,5 +1,5 @@
 # 🎥 [Xem video demo tại đây](https://youtu.be/_Dk1zkFOEfY?si=O3N8TpcEBtP7bWng)
-
+![CNC Plotter 3 Trục](cnc_plotter_3_truc_thumbnail.png)
 
 # Image to G-Code ESP Sender
 
